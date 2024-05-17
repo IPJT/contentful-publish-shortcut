@@ -10,7 +10,7 @@
 // @license MIT
 // @downloadURL  https://update.greasyfork.org/scripts/495272/Publish%20Contentful%20entities%20-%20Keyboard%20shortcut.user.js
 // @updateURL    https://update.greasyfork.org/scripts/495272/Publish%20Contentful%20entities%20-%20Keyboard%20shortcut.meta.js
-// @website      https://github.com/Neet-Nestor/Telegram-Media-Downloader
+// @website      https://github.com/IPJT/contentful-publish-shortcut
 // ==/UserScript==
 
 (function () {
