@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      2024-05-17
 // @description  Script that enables Contentful entities to be published with ctrl+p/cmnd+p
-// @author       IPJT
+// @author       IPJT - Ian Thorslund
 // @match        https://app.contentful.com/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=contentful.com
 // @grant        window.onurlchange
